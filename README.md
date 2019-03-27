@@ -2,9 +2,6 @@
 
 <a href="https://github.com/Ranginang67/Crypton"><img src="https://img.shields.io/badge/Crypton-tools-green.svg">
 <a href="https://github.com/Ranginang67/Crypton"><img src="https://img.shields.io/badge/Version-1.0-yellow.svg">
-<a href="https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ"><img src="https://img.shields.io/badge/support-youtube-red.svg">
-<a href="https://t.me/Msambari"><img src="https://img.shields.io/badge/telegram-%40Ms.ambari-blue.svg">
- <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/support-Linux-orange.svg">
 </a>
  <br>
 
